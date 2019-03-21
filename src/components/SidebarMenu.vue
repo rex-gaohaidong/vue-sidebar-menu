@@ -69,10 +69,6 @@
         </transition>
       </div>
     </div>
-    <button
-      class="collapse-btn"
-      @click="toggleCollapse"
-    />
   </div>
 </template>
 
